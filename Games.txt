@@ -5,3 +5,5 @@ Pyhton juga merupakan bahasa pemrograman interpretatif yang bisa dipasang pada b
 Learning berarti bahwa sebuah machine/komputer belajar secara mandiri dengan materi dari kita. <Adrian>
 Kita adalah manusia. <Teddy>
 Manusia adalah makhluk sosial yang tak lepas dari kesalahan. <Naufal>
+
+
