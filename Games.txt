@@ -1,2 +1,3 @@
 Saya suka belajar Machine Learning di Bangkit. <Facilitator>
 Bangkit academy adalah sebuah pembelajaran yang terdiri dari 3 Path. <Teddy>
+Path yang kami ambil adalah machine learning menggunakan python. <Naufal>
