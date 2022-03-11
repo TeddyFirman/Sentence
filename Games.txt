@@ -4,3 +4,6 @@ Path yang kami ambil adalah machine learning menggunakan python. <Naufal>
 Pyhton juga merupakan bahasa pemrograman interpretatif yang bisa dipasang pada berbagai platform, khususnya platform yang berfokus pada keterbacaan kode. Data science, internet of things (IoT), dan machine learning. <dechan>
 Learning berarti bahwa sebuah machine/komputer belajar secara mandiri dengan materi dari kita. <Adrian>
 Kita adalah manusia. <Teddy>
+Manusia adalah makhluk sosial yang tak lepas dari kesalahan. <Naufal>
+
+
