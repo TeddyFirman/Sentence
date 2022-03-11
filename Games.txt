@@ -1,4 +1,4 @@
 Saya suka belajar Machine Learning di Bangkit. <Facilitator>
 Bangkit academy adalah sebuah pembelajaran yang terdiri dari 3 Path. <Teddy>
 Path yang kami ambil adalah machine learning menggunakan python. <Naufal>
-Bangkit juga salah satu program yang diminati anak-anak milenial sekarang karena ini sangat membantu untuk maju ke jenjang karir. <dechan>
+Pyhton juga merupakan bahasa pemrograman interpretatif yang bisa dipasang pada berbagai platform, khususnya platform yang berfokus pada keterbacaan kode. Data science, internet of things (IoT), dan machine learning. <dechan>
